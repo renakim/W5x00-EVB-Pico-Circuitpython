@@ -86,6 +86,7 @@ def pulsing_effect_on():
         led.fill((i, i, i))
         time.sleep(0.1)
 
+
 def pulsing_effect_off():
     for i in range(255, -1, -5):
         led.fill((i, i, i))
