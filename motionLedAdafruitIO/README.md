@@ -1,9 +1,10 @@
 ## Component
 
--   W5500-EVB-Pico
--   [M5Stack PIR Sensor](https://docs.m5stack.com/en/unit/pir)
--   Picobricks (LED): You can use only the necessary modules separately, but this time I used them as is.
--   Adafruit.io
+* [W5500-EVB-Pico](https://docs.wiznet.io/Product/iEthernet/W5500/w5500-evb-pico)
+* [M5Stack PIR Sensor](https://docs.m5stack.com/en/unit/pir)
+* [Picobricks](https://picobricks.com/) (LED): You can use only the necessary modules separately, but this time I used them as is.
+* [Adafruit.io](https://io.adafruit.com/)
+
 
 
 ## Guide
